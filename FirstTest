@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Make practice a man pefect</h1>
+        <div>TODO write content</div>
+        <kbd>File | Open....</kbd>
+        <code># include<br>
+            int x,y;<br>
+            int sum = x + y;
+        </code>
+        <pre>
+            <code>
+                var x = 5;
+                var y = 6;
+                document.getElementById("demo").innerHTML = x + y;
+</code>
+        </pre>
+        <br>
+        
+        <pre>
+        Einstein wrote:<br>
+            <var>E</var> = <var>m</var><var>c</var><sup>2</sup>
+        </pre>
+        <!--This is a comment -->
+        <p>This is a paragraph.</p>
+        
+        <!--Remember to add more information here -->
+        <!--
+        <img border="0" src="pic.jpg" alt="mountain">
+        -->
+        <!--[if Chrome]
+        .....some HTMl here<Br>.... new 
+        <![endif]-->
+    </body>
+</html>
